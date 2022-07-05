@@ -267,7 +267,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "-Working experiences-";
+    /* content: "-Working experiences-"; */
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
